@@ -1,0 +1,106 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+        "capacity": "40.000 L",
+        "area": "Δ.Κ ΠΑΡΑΔΕΙΣΟΥ",
+        "id": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.642467,
+           37.950378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
+        "capacity": "37.000 L",
+        "area": "ΔΙΑΣΕΛΟ - Δ.Κ ΚΑΣΤΑΝΙΑΣ",
+        "id": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.366711,
+           37.865156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΝΕΜΕΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΠΡΟΦΗΤΗΣ ΗΛΕΙΑΣ ΝΕΜΕΑΣ",
+        "id": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.588172,
+           37.826378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΝΕΜΕΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΚΟΜΒΟΣ",
+        "id": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.684817,
+           37.784300
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΧΑΛΚΙ - ΓΗΠΕΔΟ ΧΑΛΚΙΟΥ",
+        "id": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.720311,
+           37.877264
+        ]
+      }
+    }
+  ]
+}

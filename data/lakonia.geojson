@@ -1,0 +1,506 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "40.000 L",
+        "area": "ΚΑΛΛΙΘΕΑ -ΠΡΟΦΗΤΗΣ ΗΛΙΑΣ",
+        "id": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.639747,
+           37.092742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "ΑΙ ΓΙΑΝΝΑΚΗΣ - Τ.Κ ΚΡΕΜΑΣΤΗΣ",
+        "id": 116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.933550,
+           36.922256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "1.5 km NOΤΙΟΑΝΑΤΟΛΙΚΑ - Τ.Κ ΚΡΕΜΑΣΤΗΣ",
+        "id": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.890472,
+           36.964692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "Τ.K ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+        "id": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.812497,
+           36.940506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "ΚΟΥΚΟΥΡΑΚΙ - Τ.Κ ΓΕΡΑΝΙΟΥ",
+        "id": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.703897,
+           36.998044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "ΑΜΠΕΛΙΑ - Τ.Κ ΓΕΡΑΚΙΟΥ",
+        "id": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.722725,
+           37.005361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΕΥΡΩΤΑ",
+        "capacity": "37.000 L",
+        "area": "ΣΟΡΜΠΑΝΟΙ - Τ.Κ ΓΕΡΑΚΙΟΥ",
+        "id": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.748517,
+           37.028397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΚΑΡΥΕΣ - ΑΓΙΑ ΚΥΡΙΑΚΗ",
+        "id": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.449692,
+           37.277736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΓΡΙΑΝΟΙ - ΑΓΙΟΣ ΠΑΝΤΕΛΕΗΜΟΝΑΣ",
+        "id": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.583300,
+           37.115419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΑΓΙΟΣ ΒΑΣΙΛΕΙΟΣ ΒΑΣΣΑΡΑ",
+        "id": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.477083,
+           37.181333
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΤΑΥΓΕΤΗ ΜΥΣΤΡΑ",
+        "id": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.354033,
+           37.056092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΚΟΝΑΚΙΑ",
+        "id": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.468889,
+           36.760833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΜΥΡΣΙΝΗ",
+        "id": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.445325,
+           36.756142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΜΕΛΙΣΣΑ",
+        "id": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.464739,
+            36.816083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΚΛΑΣΤΑΝΙΑ",
+        "id": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.413547,
+            36.835647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΛΟΥΚΑΔΙΚΑ",
+        "id": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.467572,
+            36.637161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΚΟΤΡΩΝΑΣ",
+        "id": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.522428,
+            36.620733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΜΑΡΜΑΡΙ",
+        "id": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.474756,
+            36.433731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΚΡΥΟΝΕΡΙ",
+        "id": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.398292,
+            36.720378
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΚΟΥΡΚΟΥΛΑ - Δ.Κ ΜΟΛΑΩΝ",
+        "id": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.839628,
+            36.799553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ ΚΟΥΠΙΩΝ",
+        "id": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.901814,
+            36.862719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ ΜΕΤΑΜΟΡΦΩΣΗΣ",
+        "id": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.915953,
+            36.808272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ ΡΕΙΧΙΑΣ",
+        "id": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.004444,
+            36.848578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ ΠΙΣΤΑΜΑΤΩΝ",
+        "id": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.988464,
+            36.901003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΛΑΚΚΑ Τ.Κ ΦΑΡΑΚΛΟΥ - ΝΕΑΠΟΛΗΣ",
+        "id": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.088928,
+            36.529208
+        ]
+      }
+    }
+  ]
+}

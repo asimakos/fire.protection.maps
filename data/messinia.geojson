@@ -1,0 +1,427 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΝΩ ΜΕΛΠΕΙΑ",
+        "id": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.954975,
+            37.350058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΒΑΣΙΛΙΚΟ",
+        "id": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.900922,
+            37.289717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΝΩ ΔΩΡΙΟ",
+        "id": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.838586,
+            37.346356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΝΩ ΨΑΡΙ",
+        "id": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.901292,
+            37.337153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΠΕΤΡΑ",
+        "id": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.950561,
+            37.419886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΜΠΕΛΙΩΝΑ",
+        "id": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.940647,
+            37.447669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΡΑΠΤΟΠΟΥΛΟ - ΔΑΡΑ",
+        "id": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.744758,
+            37.194314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΣΕΛΛΑ",
+        "id": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.779625,
+            37.205886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΜΕΤΑΜΟΡΦΩΣΗ - Τ.Κ ΣΕΛΛΑ",
+        "id": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.805875,
+            37.220756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΚΡΥΟΝΕΡΙ - Τ.Κ ΣΕΛΛΑ",
+        "id": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.790108,
+            37.231567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΡΙΖΟΧΩΡΙ",
+        "id": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.836883,
+            37.323269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ ΠΛΑΤΑΝΙΩΝ",
+        "id": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.829525,
+            37.369258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΑΥΛΩΝΑ - ΚΑΡΥΕΣ",
+        "id": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.777950,
+            37.377256
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΥΦΙΛΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΑΓΑΛΙΑΝΗ - ΚΑΛΟ ΝΕΡΟ",
+        "id": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.722936,
+            37.322314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
+        "capacity": "40.000 L",
+        "area": "4km ΠΛΑΤΑΝΟΒΡΥΣΗ - ΑΜΠΕΛΟΚΗΠΩΝ",
+        "id": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.821314,
+            36.917967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
+        "capacity": "40.000 L",
+        "area": "ΠΑΛΑΙΟ ΣΟΥΛΗΝΑΡΙ",
+        "id": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.828272,
+            36.952144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
+        "capacity": "37.000 L",
+        "area": "ΚΥΝΗΓΟΥ ΑΒΑΡΝΙΤΣΑ",
+        "id": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.750731,
+            36.914661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΜΟΝΗ ΑΓΙΟΥ ΣΑΜΟΥΗΛ",
+        "id": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.295958,
+            36.887475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΜΑΘΙΑ",
+        "id": 112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.881114,
+            36.928614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΑΕΡΟΔΡΟΜΙΟ ΚΑΛΑΜΑΤΑΣ",
+        "id": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            22.026108,
+            37.054406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΔΙΑΣΕΛΟ ΚΕΦΑΛΟΒΡΥΣΗΣ",
+        "id": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.794139,
+            37.161528
+        ]
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,785 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΚΟΣΜΑ ΦΕΣΤΟΥΤΣΟΥ",
+        "id": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.730764,
+          37.082194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΚΟΣΜΑ ΑΓΙΩΡΓΗΤΙΚΟΣ ΚΑΜΠΟΣ",
+        "id": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.714694,
+          37.136531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΠΑΛΑΙΟΧΩΡΙΟΥ ΠΑΛΑΙΟΧΩΡΙ",
+        "id": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.719669,
+          37.159956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΚΑΣΤΑΝΙΤΣΑ - ΓΗΠΕΔΟ",
+        "id": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.587225,
+          37.259381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΜΟΝΗ ΜΑΛΕΒΗΣ - ΞΗΡΟΚΑΜΠΙ",
+        "id": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.611225,
+          37.324556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΑΝΩ ΔΟΛΙΑΝΑ",
+        "id": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.499739,
+           37.379239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΑΓΙΟΥ ΠΕΤΡΟΥ - ΖΥΓΟΣ",
+        "id": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.534447,
+           37.308658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΑΓΙΟΥ ΠΕΤΡΟΥ - ΖΥΓΟΣ",
+        "id": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.550919,
+           37.286078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΠΕΡΔΙΚΟΒΡΥΣΗ",
+        "id": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.575556,
+           37.388333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΜΟΝΗ ΜΑΛΕΒΗΣ",
+        "id": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.589692,
+           37.333692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΒΥΤΙΝΑΣ - ΣΚΟΥΠΙΔΟΤΟΠΟΣ",
+        "id": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.181358,
+           37.679672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΕΛΑΤΗΣ - ΓΛΟΓΚΟΒΑ",
+        "id": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.149033,
+           37.628761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΧΡΥΣΟΒΙΤΣΙΟΥ - ΜΟΤΣΑΡΕΣ",
+        "id": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.166722,
+           37.583272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΚΑΜΕΝΙΤΣΑΣ - ΑΓΙΟΣ ΠΕΤΡΟΣ",
+        "id": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.220000,
+           37.709992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΠΡΑΣΙΝΟ",
+        "id": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.162506,
+           37.781933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ. ΜΑΓΟΥΛΙΑΝΑ",
+        "id": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.123189,
+           37.678044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ. ΒΑΛΤΕΣΙΝΙΚΟ",
+        "id": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.094608,
+           37.708314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ. ΒΥΤΙΝΑΣ - ΡΟΥΧΟΙ",
+        "id": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.233128,
+           37.673244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "40.000 L",
+        "area": "ΡΑΠΟΥΝΙ - ΠΗΓΑΔΙ",
+        "id": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.146692,
+           37.546914
+        ]
+      }
+    },
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
+        "capacity": "37.000 L",
+        "area": "ΛΥΚΟΧΩΡΙ",
+        "id": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           21.836111,
+           37.721111
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΧΡΥΣΟΒΙΤΣΙΟΥ - ΤΖΕΛΑΤΗ",
+        "id": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.220969,
+           37.549733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "40.000 L",
+        "area": "Τ.Κ. ΛΕΒΙΔΙΟΥ - ΣΚΟΥΠΙΔΟΤΟΠΟΣ",
+        "id": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.306103,
+           37.653947
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "Π/Φ ΒΛΑΧΟΚΕΡΑΣΙΑΣ",
+        "id": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.362436,
+           37.323697
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΤΚ ΛΕΒΙΔΙΟΥ ΔΙΑΣΕΛΟ ΚΑΠΕΛΗΣ / ΛΙΒΑΔΙ",
+        "id": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.248650,
+           37.682333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΤΚ ΠΑΠΑΡΗ - ΑΓΙΑ ΤΡΙΑΔΑ",
+        "id": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.245944,
+           37.375194
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΤΚ ΕΛΑΙΟΧΩΡΙΟΥ - ΘΕΜΟΝΟΣΤΑΣΙ",
+        "id": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.575417,
+           37.460472
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "124 ΠΒΕ",
+        "id": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.398861,
+           37.525194
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "Δ.Κ. ΤΡΙΠΟΛΗΣ - ΑΓΙΑ ΤΡΙΑΔΑ",
+        "id": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.369472,
+           37.530000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΡΕΚΙΤΣΑ",
+        "id": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.223647,
+           37.235022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "Τ.Κ. ΒΑΣΤΑΣ",
+        "id": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.001553,
+           37.364986
+        ]
+      }
+    },
+   {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΚΑΜΑΡΑ - ΠΑΛΑΙΟ ΓΗΠΕΔΟ",
+        "id": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.175833,
+           37.247778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΛΟΥΤΣΑ - ΛΥΚΟΧΙΑ",
+        "id": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.167556,
+           37.486439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΑΚΟΒΟΣ - ΛΕΖΟΝΑ",
+        "id": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.165283,
+           37.201617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΑΝΑΒΡΥΤΟΣ - ΣΚΟΤΕΙΝΟΣ",
+        "id": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.260569,
+           37.318744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΤΟΥΡΚΟΛΕΚΑ - ΑΝΩ ΚΑΡΥΕΣ",
+        "id": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.112239,
+           37.245633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΜΑΙΝΑΛΟ - ΞΑΠΟΣΤΑΤΗΡΑ",
+        "id": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.167989,
+           37.533367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "40.000 L",
+        "area": "ΜΑΙΝΑΛΟ - ΕΞΑΜΙΛΙΑ",
+        "id": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.195914,
+           37.513378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΒΛΑΧΟΡΑΠΤΗ",
+        "id": 97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           22.023611,
+           37.527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "type": "tank",
+        "name": "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
+        "capacity": "37.000 L",
+        "area": "ΛΥΚΟΧΩΡΙ",
+        "id": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           21.836111,
+           37.720833
+        ]
+      }
+    }
+  ]
+}
